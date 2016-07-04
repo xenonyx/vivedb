@@ -5012,8 +5012,8 @@
         "reviewsUsers": 29,
         "shortDescription": "Face-off in the virtual ring in this grueling boxing game. Jab, dodge, and sweat your way to the top of the boxing world. Grab your gloves, step through the ropes, and become a champion.",
         "title": "The Thrill of the Fight",
-        "vrSupportDate": null,
-        "vrSupportUnix": null
+        "vrSupportDate": "28 Jun 2016",
+        "vrSupportUnix": 1467072000
     },
     {
         "desktopControls": "GAMEPAD",
