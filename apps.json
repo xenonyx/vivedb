@@ -5711,8 +5711,8 @@
         "reviewsUsers": 27,
         "shortDescription": "VR: Vacate the Room is a short Escape the Room game inspired by such classics as Crimson Room. It is a VR Experience where you need to find clues to solve puzzles and find your way out.",
         "title": "VR: Vacate the Room",
-        "vrSupportDate": null,
-        "vrSupportUnix": null
+        "vrSupportDate": "27 Jun 2016",
+        "vrSupportUnix": 1466985600
     },
     {
         "desktopControls": null,
