@@ -2773,8 +2773,8 @@
         "reviewsUsers": 35,
         "shortDescription": "Welcome to Klepto where there's no place like a burglarized home. In this burglary simulation you'll explore, terrorize and loot your way to success in a variety of open-world sandbox neighborhoods. **VR is NOT required for this game.",
         "title": "Klepto",
-        "vrSupportDate": null,
-        "vrSupportUnix": null
+        "vrSupportDate": "5 Apr 2016",
+        "vrSupportUnix": 1459814400
     },
     {
         "desktopControls": null,
