@@ -1973,8 +1973,8 @@
         "reviewsPercent": null,
         "reviewsUsers": null,
         "title": "FTC Workshop Tool",
-        "vrSupportDate": null,
-        "vrSupportUnix": null
+        "vrSupportDate": "29 Jun 2016",
+        "vrSupportUnix": 1467158400
     },
     {
         "desktopControls": null,
