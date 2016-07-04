@@ -5551,8 +5551,8 @@
         "reviewsUsers": 1,
         "shortDescription": "VirZOOM creates thrilling Virtual Reality experiences powered by you. Pedal your VirZOOM controller to propel yourself through endlessly exciting VR games. Power a horse in a race, a tank in battle, a fire-breathing dragon through mountains. A workout without the work.",
         "title": "VirZOOM Arcade",
-        "vrSupportDate": null,
-        "vrSupportUnix": null
+        "vrSupportDate": "14 Jun 2016",
+        "vrSupportUnix": 1465862400
     },
     {
         "desktopControls": null,
