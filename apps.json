@@ -796,8 +796,8 @@
         "reviewsUsers": 10,
         "shortDescription": "Bowl VR is a high quality bowling simulation for virtual reality. It has fully featured bowling alleys with accurate physics and ball control, along with local multiplayer that delivers endless hours of fun.",
         "title": "Bowl VR",
-        "viveSupportDate": null,
-        "viveSupportUnix": null
+        "viveSupportDate": "23 Jun 2016",
+        "viveSupportUnix": 1466640000
     },
     {
         "desktopControls": null,
