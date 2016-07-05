@@ -5511,8 +5511,8 @@
         "reviewsUsers": null,
         "shortDescription": "Beer Pong in Virtual Reality",
         "title": "VeeR Pong",
-        "viveSupportDate": null,
-        "viveSupportUnix": null
+        "viveSupportDate": "30 Jun 2016",
+        "viveSupportUnix": 1467244800
     },
     {
         "desktopControls": null,
@@ -5531,8 +5531,8 @@
         "reviewsUsers": null,
         "shortDescription": "Beer Pong in Virtual Reality",
         "title": "VeeR Pong Demo",
-        "viveSupportDate": null,
-        "viveSupportUnix": null
+        "viveSupportDate": "30 Jun 2016",
+        "viveSupportUnix": 1467244800
     },
     {
         "desktopControls": null,
