@@ -5351,8 +5351,8 @@
         "reviewsUsers": 1,
         "shortDescription": "I'm a 16 year old game developer from Finland. I'm working on a game for HTC Vive. My game is called Unbreakable Vr Runner. It is a coin catcher game in which the player collects coins and others objects and dodges obstacles.",
         "title": "Unbreakable Vr Runner",
-        "viveSupportDate": null,
-        "viveSupportUnix": null
+        "viveSupportDate": "24 Jun 2016",
+        "viveSupportUnix": 1466726400
     },
     {
         "desktopControls": null,
